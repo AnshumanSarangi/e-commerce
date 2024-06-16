@@ -1,0 +1,393 @@
+[
+  {
+    "name": "Wireless Earbuds",
+    "description": {
+      "brand": "SoundMax",
+      "model": "SM-E100",
+      "about": "High-quality wireless earbuds with noise cancellation.",
+      "features": "Bluetooth 5.0, Noise Cancellation, 24-hour battery life"
+    },
+    "rating": "4.5",
+    "price": "99.99",
+    "isOnDiscount": "true",
+    "discountPercentage": "10",
+    "discountedPrice": "89.99",
+    "images": [
+      "https://th.bing.com/th/id/OIP.rc_Usiax8UV38oEjhvC5dQAAAA?rs=1&pid=ImgDetMain",
+      "https://i5.walmartimages.com/asr/9addeea4-c592-4f52-878b-fd2c6b924c51_1.4ced31664bcf09ab95a8faaa2160085b.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff"
+    ],
+    "category": "Electronics",
+    "tags": ["wireless", "earbuds", "audio"],
+    "inStock": {
+      "flag": "true",
+      "count": "7"
+    },
+    "createdAt": "2023-01-01T12:00:00Z",
+    "updatedAt": "2023-06-01T12:00:00Z",
+    "reviews": [
+      {
+        "user": "Alice",
+        "comment": "Great sound quality and comfortable to wear.",
+        "rating": "5"
+      },
+      {
+        "user": "Bob",
+        "comment": "Good value for money.",
+        "rating": "4"
+      }
+    ],
+    "numOfReviews": "2"
+  },
+  {
+    "name": "Blender Pro 500",
+    "description": {
+      "brand": "KitchenMaster",
+      "model": "KM-B500",
+      "about": "A powerful blender for smoothies and more.",
+      "features": "1000W motor, 5 speed settings, BPA-free"
+    },
+    "rating": "4.0",
+    "price": "59.99",
+    "isOnDiscount": "false",
+    "discountPercentage": "0",
+    "discountedPrice": "59.99",
+    "images": [
+      "https://i.pinimg.com/originals/d4/01/cd/d401cd7470c12f1e044e10f32f64f221.png",
+      "https://www.mhcworld.co.za/cdn/shop/products/midea-blender-midea-600w-blender-pro-1-5l-glass-jug-blender-mj-60be01c-28326484967513.jpg?v=1665029346"
+    ],
+    "category": "Home Appliances",
+    "tags": ["kitchen", "blender", "appliance"],
+    "inStock": {
+      "flag": "true",
+      "count": "3"
+    },
+    "createdAt": "2023-02-15T12:00:00Z",
+    "updatedAt": "2023-06-01T12:00:00Z",
+    "reviews": [
+      {
+        "user": "Charlie",
+        "comment": "Very powerful and easy to clean.",
+        "rating": "4"
+      },
+      {
+        "user": "Dana",
+        "comment": "Makes perfect smoothies.",
+        "rating": "4"
+      }
+    ],
+    "numOfReviews": "2"
+  },
+  {
+    "name": "Yoga Mat Deluxe",
+    "description": {
+      "brand": "FitLife",
+      "model": "FL-YM200",
+      "about": "Premium yoga mat with extra cushioning.",
+      "features": "Non-slip surface, Eco-friendly material, Extra thick"
+    },
+    "rating": "4.8",
+    "price": "39.99",
+    "isOnDiscount": "true",
+    "discountPercentage": "15",
+    "discountedPrice": "33.99",
+    "images": [
+      "https://th.bing.com/th/id/OIP.qHtbePWOErHI2PZ2Uj2LnwHaHa?rs=1&pid=ImgDetMain",
+      "https://generalhealthmagazine.files.wordpress.com/2019/12/gaiam-print-premium-yoga-mats.jpg?w=1200"
+    ],
+    "category": "Fitness",
+    "tags": ["yoga", "fitness", "mat"],
+    "inStock": {
+      "flag": "true",
+      "count": "5"
+    },
+    "createdAt": "2023-03-01T12:00:00Z",
+    "updatedAt": "2023-06-01T12:00:00Z",
+    "reviews": [
+      {
+        "user": "Eve",
+        "comment": "Best yoga mat I've ever used.",
+        "rating": "5"
+      },
+      {
+        "user": "Frank",
+        "comment": "Very comfortable and supportive.",
+        "rating": "5"
+      }
+    ],
+    "numOfReviews": "2"
+  },
+  {
+    "name": "Smartwatch Series 5",
+    "description": {
+      "brand": "TechGear",
+      "model": "TG-SW5",
+      "about": "Advanced smartwatch with multiple health tracking features.",
+      "features": "Heart rate monitor, GPS, Waterproof"
+    },
+    "rating": "3.5",
+    "price": "199.99",
+    "isOnDiscount": "false",
+    "discountPercentage": "0",
+    "discountedPrice": "199.99",
+    "images": [
+      "https://lovientv.com.mx/wp-content/uploads/2021/07/watch1_1024x10242x.jpg",
+      "https://hayicart.com/wp-content/uploads/ezgif-7-41132afdf139-600x600.jpg"
+    ],
+    "category": "Wearables",
+    "tags": ["smartwatch", "wearable", "tech"],
+    "inStock": {
+      "flag": "true",
+      "count": "10"
+    },
+    "createdAt": "2023-04-01T12:00:00Z",
+    "updatedAt": "2023-06-01T12:00:00Z",
+    "reviews": [
+      {
+        "user": "Grace",
+        "comment": "Good features but battery life could be better.",
+        "rating": "3"
+      },
+      {
+        "user": "Hank",
+        "comment": "Stylish and functional.",
+        "rating": "4"
+      }
+    ],
+    "numOfReviews": "2"
+  },
+  {
+    "name": "Espresso Machine Elite",
+    "description": {
+      "brand": "CoffeeKing",
+      "model": "CK-EM1000",
+      "about": "Top-tier espresso machine for coffee enthusiasts.",
+      "features": "15-bar pump, Stainless steel, Built-in grinder"
+    },
+    "rating": "4.7",
+    "price": "299.99",
+    "isOnDiscount": "true",
+    "discountPercentage": "20",
+    "discountedPrice": "239.99",
+    "images": [
+      "https://i.pinimg.com/originals/61/cb/ab/61cbabe8571db392793a937d5678233a.jpg",
+      "https://th.bing.com/th/id/OIP.yo-hsI6cGc_x52TT-SBQUgAAAA?pid=ImgDet&w=361&h=461&rs=1"
+    ],
+    "category": "Kitchen Appliances",
+    "tags": ["coffee", "espresso", "appliance"],
+    "inStock": {
+      "flag": "true",
+      "count": "1"
+    },
+    "createdAt": "2023-05-01T12:00:00Z",
+    "updatedAt": "2023-06-01T12:00:00Z",
+    "reviews": [
+      {
+        "user": "Ivan",
+        "comment": "Makes the best espresso I've ever had at home.",
+        "rating": "5"
+      },
+      {
+        "user": "Judy",
+        "comment": "Worth every penny.",
+        "rating": "4"
+      }
+    ],
+    "numOfReviews": "2"
+  },
+  {
+    "name": "4K Ultra HD TV",
+    "description": {
+      "brand": "VisionTech",
+      "model": "VT-4K55",
+      "about": "Stunning 55-inch 4K Ultra HD TV with HDR.",
+      "features": "4K resolution, HDR10, Smart TV"
+    },
+    "rating": "4.6",
+    "price": "499.99",
+    "isOnDiscount": "true",
+    "discountPercentage": "10",
+    "discountedPrice": "449.99",
+    "images": [
+      "https://wallpaperaccess.com/full/829212.jpg",
+      "https://www.techtoyreviews.com/wp-content/uploads/2019/01/Panasonic-GZ2000-4K-OLED-TV.jpg"
+    ],
+    "category": "Electronics",
+    "tags": ["tv", "4k", "electronics"],
+    "inStock": {
+      "flag": "true",
+      "count": "13"
+    },
+    "createdAt": "2023-01-10T12:00:00Z",
+    "updatedAt": "2023-06-01T12:00:00Z",
+    "reviews": [
+      {
+        "user": "Kevin",
+        "comment": "Excellent picture quality.",
+        "rating": "5"
+      },
+      {
+        "user": "Laura",
+        "comment": "Great value for a 4K TV.",
+        "rating": "4"
+      }
+    ],
+    "numOfReviews": "2"
+  },
+  {
+    "name": "Running Shoes",
+    "description": {
+      "brand": "FastTrack",
+      "model": "FT-RS300",
+      "about": "Lightweight and durable running shoes.",
+      "features": "Breathable mesh, Cushioned sole, Durable"
+    },
+    "rating": "4.3",
+    "price": "79.99",
+    "isOnDiscount": "false",
+    "discountPercentage": "0",
+    "discountedPrice": "79.99",
+    "images": [
+      "https://th.bing.com/th/id/OIP.7SeMY3g9G_4NuDeEHBz8DgAAAA?rs=1&pid=ImgDetMain",
+      "https://th.bing.com/th/id/R.9b4da4162fa19d7aee08153d62af0fa9?rik=SoDMa9xF%2bTCbSw&riu=http%3a%2f%2fimages.complex.com%2fcomplex%2fimage%2fupload%2ft_in_content_image%2fNike_Fly_Knit_Flyknit_Racer_535173_410_EUKicks_nw6gdb.jpg&ehk=%2fEemG9Zjx5g%2bjdfWuO2902zDSso4cPeJqRldOLi7t8w%3d&risl=&pid=ImgRaw&r=0",
+      "https://sneakerbardetroit.com/wp-content/uploads/2015/07/nike-flyknit-racer-sherbet-1.jpg"
+    ],
+    "category": "Footwear",
+    "tags": ["running", "shoes", "fitness"],
+    "inStock": {
+      "flag": "true",
+      "count": "4"
+    },
+    "createdAt": "2023-02-01T12:00:00Z",
+    "updatedAt": "2023-06-01T12:00:00Z",
+    "reviews": [
+      {
+        "user": "Mike",
+        "comment": "Very comfortable and supportive.",
+        "rating": "4"
+      },
+      {
+        "user": "Nina",
+        "comment": "Perfect for my daily runs.",
+        "rating": "5"
+      }
+    ],
+    "numOfReviews": "2"
+  },
+  {
+    "name": "Digital SLR Camera",
+    "description": {
+      "brand": "PhotoPro",
+      "model": "PP-DSLR800",
+      "about": "High-performance DSLR camera with advanced features.",
+      "features": "24MP sensor, 4K video, Wi-Fi connectivity"
+    },
+    "rating": "4.7",
+    "price": "799.99",
+    "isOnDiscount": "true",
+    "discountPercentage": "15",
+    "discountedPrice": "679.99",
+    "images": [
+      "https://th.bing.com/th/id/R.ef586d2e4e2b266bc36c8d5336d7b5a6?rik=PUCcePlTWgCikQ&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f6%2fDigital-SLR-Camera-PNG-File.png&ehk=Gx%2fKbxrerdRETlQXBqh8vXrBeYvfqhywILrTc54uOns%3d&risl=&pid=ImgRaw&r=0",
+      "https://nikonrumors.com/wp-content/uploads/2013/11/Nikon-Df-kit-silver.jpg"
+    ],
+    "category": "Cameras",
+    "tags": ["camera", "dslr", "photography"],
+    "inStock": {
+      "flag": "true",
+      "count": "20"
+    },
+    "createdAt": "2023-03-10T12:00:00Z",
+    "updatedAt": "2023-06-01T12:00:00Z",
+    "reviews": [
+      {
+        "user": "Oscar",
+        "comment": "Amazing camera with great features.",
+        "rating": "5"
+      },
+      {
+        "user": "Pam",
+        "comment": "Takes stunning photos.",
+        "rating": "4"
+      }
+    ],
+    "numOfReviews": "2"
+  },
+  {
+    "name": "Gaming Laptop",
+    "description": {
+      "brand": "GamerX",
+      "model": "GX-GL500",
+      "about": "Powerful gaming laptop with high-end specs.",
+      "features": "Intel i7, 16GB RAM, RTX 3060"
+    },
+    "rating": "4.5",
+    "price": "1299.99",
+    "isOnDiscount": "true",
+    "discountPercentage": "10",
+    "discountedPrice": "1169.99",
+    "images": [
+      "https://images.idgesg.net/images/article/2018/04/hp_pavilion_gaming_laptop_hero1_front_clamshell_acidgreen-100754493-orig.jpg",
+      "https://images.idgesg.net/images/article/2018/04/hp_pavilion_gaming_laptop_hero4_rightopen_acidgreen-100754494-orig.jpg"
+    ],
+    "category": "Computers",
+    "tags": ["gaming", "laptop", "tech"],
+    "inStock": {
+      "flag": "true",
+      "count": "12"
+    },
+    "createdAt": "2023-04-15T12:00:00Z",
+    "updatedAt": "2023-06-01T12:00:00Z",
+    "reviews": [
+      {
+        "user": "Quincy",
+        "comment": "Runs all games smoothly.",
+        "rating": "5"
+      },
+      {
+        "user": "Rachel",
+        "comment": "Excellent performance and build quality.",
+        "rating": "4"
+      }
+    ],
+    "numOfReviews": "2"
+  },
+  {
+    "name": "Electric Toothbrush",
+    "description": {
+      "brand": "CleanSmile",
+      "model": "CS-ET100",
+      "about": "Advanced electric toothbrush for a superior clean.",
+      "features": "Sonic technology, 3 modes, Long battery life"
+    },
+    "rating": "4.2",
+    "price": "49.99",
+    "isOnDiscount": "false",
+    "discountPercentage": "0",
+    "discountedPrice": "49.99",
+    "images": [
+      "https://images.freeimages.com/images/large-previews/162/electric-toothbrush-1423653.jpg",
+      "https://www.dolphindental.com/wp-content/uploads/benefits-of-using-an-electric-toothbrush.jpg"
+    ],
+    "category": "Personal Care",
+    "tags": ["toothbrush", "personal care", "health"],
+    "inStock": {
+      "flag": "true",
+      "count": "12"
+    },
+    "createdAt": "2023-05-10T12:00:00Z",
+    "updatedAt": "2023-06-01T12:00:00Z",
+    "reviews": [
+      {
+        "user": "Sam",
+        "comment": "Cleans very well and easy to use.",
+        "rating": "4"
+      },
+      {
+        "user": "Tina",
+        "comment": "My teeth have never felt cleaner.",
+        "rating": "4"
+      }
+    ],
+    "numOfReviews": "2"
+  }
+]
